@@ -1,0 +1,3 @@
+# serial-webbrowser
+1.引用JQUERY会出现内外传参错误的问题
+2.JS中的报错需要TRYCATCH掉，否则同样会出现从外向内传参DISPATCHMESSAGE出错的问题
